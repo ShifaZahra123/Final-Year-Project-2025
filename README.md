@@ -76,6 +76,14 @@ The following modules define the core functionalities of the **Raw Meat Quality 
 
 ---
 
+
+## 📸 Screenshots of Mobile App
+
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png)       ![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png)          ![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png)
+
+
+---
+
 ### 🧩 Proposed Project Architecture Diagram
 
 ![Architecture Diagram](https://raw.githubusercontent.com/ShifaZahra123/Final-Year-Project-2025/main/Architecture%20Diagram.jpeg)
@@ -146,18 +154,6 @@ FYP/
 ```
 
 ---
-
-## 📸 Screenshots
-### 🧩 Proposed Project Layer Diagram
-
-![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png)
-![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png)
-![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png)
-
----
-
-
-
 
 
 ## 🤝 Authors
