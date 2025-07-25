@@ -148,10 +148,15 @@ FYP/
 ---
 
 ## 📸 Screenshots
+### 🧩 Proposed Project Layer Diagram
 
-| ROI Extraction            | Classification Output      | Alert Display              |
-| ------------------------- | -------------------------- | -------------------------- |
-| ![](docs/roi_example.png) | ![](docs/class_output.png) | ![](docs/alert_system.png) |
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png)
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png)
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png)
+
+---
+
+
 
 
 
