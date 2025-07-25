@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Project Name: **A REAL TIME NON DESTRUCTIVE AR BASED MOBILE APPLICATION FOR ASSURING THE QUALITY OF RAW MEAT ITEMS using Deep Learning**
+## 🧠 Project Name: **A REAL TIME NON DESTRUCTIVE AR BASED MOBILE APPLICATION FOR ASSURING THE QUALITY OF RAW MEAT ITEMS USING DEEP LEARNING**
 
 This project presents a deep learning-based solution for classifying **meat quality** using FastCNN and ResNet models. It uses **image processing and classification techniques** to predict the condition of raw meat—such as *Fresh*, *Not Fresh*, or *Spolied*. It also includes real-time region detection and an AR-style output display.
 
