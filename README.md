@@ -45,7 +45,7 @@ for each meat sample.
 
 ## 🎥 Demo Video
 
-[Demo Video.mp4]
+https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Demo%20Video.mp4
 ---
 
 ## 🖼 Sample Workflow Diagram
