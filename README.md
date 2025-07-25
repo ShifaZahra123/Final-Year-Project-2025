@@ -132,8 +132,11 @@ The following modules define the core functionalities of the **Raw Meat Quality 
 
 ```
 FYP/
-├── Backend/                 # All Python source files
-│   ├── fast_cn_restnet_moel.h5
+├── Backend Model/                 # All Python source files
+│   ├── fastcnn_resnet_model.h5
+│   ├── freshness_classification.ipynb
+│   ├── notebook.ipynb
+├── Meat Type Classification/ 
 │   ├── best_fast_cnn_model.h5
 ├── FYP Report/               # Final year report
 ├── FYP Presentation/         # FYP presentation slides
