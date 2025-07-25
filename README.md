@@ -43,8 +43,6 @@ technology, highlighting key areas of concern.
 The proposed project generate a downloadable report summarizing the freshness analysis 
 for each meat sample. 
 
-## 🎥 Demo Video
-
 ### 🎥 Demo Video
 
 [![Watch the Demo]](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Demo%20Video.mp4)
@@ -53,8 +51,7 @@ for each meat sample.
 
 ## 🖼 Sample Workflow Diagram
 
-![Workflow](docs/meat_quality_workflow.png)
-*(Update the path to your PNG if different)*
+![Workflow]((https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Architecture%20Diagram.jpeg))
 
 ---
 
