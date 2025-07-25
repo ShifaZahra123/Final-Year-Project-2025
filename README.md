@@ -99,9 +99,8 @@ for each meat sample.
 ```
 FYP/
 ├── Backend/                 # All Python source files
-│   ├── preprocessing.py
-│   ├── training.py
-│   └── inference.py
+│   ├── fast_cn_restnet_moel.h5
+│   ├── best_fast_cnn_model.h5
 ├── FYP Report/               # Final year report
 ├── FYP Presentation/         # FYP presentation slides
 ├── Demo Video.mp4        # Working demo
