@@ -58,9 +58,9 @@ for each meat sample.
 ## 🧪 Dataset
 
 * **Type**: Raw images of chicken and beef
-* **Labels**: Fresh, Spoiled, Processed, Frozen
+* **Labels**: Fresh, Not Fresh, Spoiled
 * **Size**: 224x224 RGB images
-* **Environment**: Captured in natural and artificial backgrounds
+* **Environment**: Captured in real-time environment
 
 ---
 
