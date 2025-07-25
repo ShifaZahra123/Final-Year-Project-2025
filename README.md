@@ -16,21 +16,21 @@ This project presents a deep learning-based solution for classifying **meat qual
 ## 🚀 Functional Requirements 
 The functional requirements of the proposed project are
 
- Mobile App Manager 
+** Mobile App Manager **
 The mobile app manager provides as an interface for the consumer where they capture the 
 meat item(s) images from the mobile camera. 
 
- Image Processing 
+** Image Processing **
 The image processing module analyses visual data captured on the user’s mobile device. 
- Meat Type Classification 
 
+** Meat Type Classification **
 The project automatically classify the meat as either Beef, Chicken, or Fish. 
 
- Real-Time Freshness Analysis 
+** Real-Time Freshness Analysis **
 The proposed project analyze the uploaded image in real time to assess the freshness level 
 of the meat. 
 
- Freshness Classification Output 
+** Freshness Classification Output **
 The project provide results in the form of freshness levels: 
  Fresh  
  Not Fresh 
@@ -39,13 +39,16 @@ The project provide results in the form of freshness levels:
 The proposed project overlay the analysis result directly on the meat image using AR 
 technology, highlighting key areas of concern. 
 
- Generate AR Report 
+** Generate AR Report **
 The proposed project generate a downloadable report summarizing the freshness analysis 
 for each meat sample. 
 
 ## 🎥 Demo Video
 
-https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Demo%20Video.mp4
+### 🎥 Demo Video
+
+[![Watch the Demo]](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Demo%20Video.mp4)
+
 ---
 
 ## 🖼 Sample Workflow Diagram
