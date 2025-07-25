@@ -80,16 +80,10 @@ The following modules define the core functionalities of the **Raw Meat Quality 
 ## 📸 Screenshots of Mobile App
 
 <p align="center">
-  <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png" width="700"/>
+  <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png" width="500"/>
   <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png" width="500"/>
   <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png" width="500"/>
 </p>
-
-
-![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png)       
-![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png)          
-![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png)
-
 
 ---
 
