@@ -49,9 +49,9 @@ for each meat sample.
 
 ---
 
-## 🖼 Sample Workflow Diagram
+### 🧩 Proposed Project Architecture
 
-![Workflow]((https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Architecture%20Diagram.jpeg))
+![Architecture Diagram](https://raw.githubusercontent.com/ShifaZahra123/Final-Year-Project-2025/main/Architecture%20Diagram.jpeg)
 
 ---
 
