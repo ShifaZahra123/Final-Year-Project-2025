@@ -79,11 +79,9 @@ The following modules define the core functionalities of the **Raw Meat Quality 
 
 ## 📸 Screenshots of Mobile App
 
-<p align="center">
-  <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png" width="500"/>
-  <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png" width="500"/>
-  <img src="https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png" width="500"/>
-</p>
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Login%20Page.png)       
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Choose%20Image.png)          
+![Mobile App](https://github.com/ShifaZahra123/Final-Year-Project-2025/blob/main/Mobile%20App%20Demo/Mobile%20App%20Meat%20Quality%20Results.png)
 
 ---
 
@@ -102,40 +100,10 @@ The following modules define the core functionalities of the **Raw Meat Quality 
 
 ## 🧪 Dataset
 
-* **Type**: Raw images of chicken and beef
+* **Type**: Raw images of fish, chicken and beef
 * **Labels**: Fresh, Not Fresh, Spoiled
 * **Size**: 224x224 RGB images
 * **Environment**: Captured in real-time environment
-
----
-
-## 🛠 Installation & Setup
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/meat-quality-classifier.git
-   cd meat-quality-classifier
-   ```
-
-2. **Create a virtual environment (optional but recommended)**:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install required packages**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the main code**:
-
-   ```bash
-   python main.py
-   ```
 
 ---
 
