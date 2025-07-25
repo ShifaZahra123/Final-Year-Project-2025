@@ -136,12 +136,12 @@ FYP/
 │   ├── fastcnn_resnet_model.h5
 │   ├── freshness_classification.ipynb
 │   ├── notebook.ipynb
-├── Meat Type Classification/ 
-│   ├── best_fast_cnn_model.h5
-├── FYP Report/               # Final year report
+│   ├── Meat Type Classification/ 
+│       ├── fast_cnn_best_model.h5
+│       ├── dataset.txt           # Sample raw image dataset
+├── FYP Report/               # Final year project report
 ├── FYP Presentation/         # FYP presentation slides
-├── Demo Video.mp4        # Working demo
-├── dataset/              # Sample raw image dataset
+├── Demo Video.mp4        # Working demo            
 └── README.md
 ```
 
