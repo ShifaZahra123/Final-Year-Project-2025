@@ -13,35 +13,62 @@ This project presents a deep learning-based solution for classifying **meat qual
 
 ---
 
-## 🚀 Functional Requirements 
-The functional requirements of the proposed project are
+## 🚀 Functional Requirements
 
-** Mobile App Manager **
-The mobile app manager provides as an interface for the consumer where they capture the 
-meat item(s) images from the mobile camera. 
+The following modules define the core functionalities of the **Raw Meat Quality Classification System**:
 
-** Image Processing **
-The image processing module analyses visual data captured on the user’s mobile device. 
+### 📱 **Mobile App Manager**
 
-** Meat Type Classification **
-The project automatically classify the meat as either Beef, Chicken, or Fish. 
+* Acts as the primary user interface.
+* Captures meat item images via mobile device camera.
+* Uploads images to the server for backend processing.
+* Delivers final reports with AR visualization.
 
-** Real-Time Freshness Analysis **
-The proposed project analyze the uploaded image in real time to assess the freshness level 
-of the meat. 
+### 🖼️ **Image Processing**
 
-** Freshness Classification Output **
-The project provide results in the form of freshness levels: 
- Fresh  
- Not Fresh 
- Spoiled 
- Augmented Reality Overlay 
-The proposed project overlay the analysis result directly on the meat image using AR 
-technology, highlighting key areas of concern. 
+* Processes captured images using computer vision techniques.
+* Applies contrast stretching, resizing, and background removal.
+* Prepares data for classification stages.
 
-** Generate AR Report **
-The proposed project generate a downloadable report summarizing the freshness analysis 
-for each meat sample. 
+### 🍗 **Meat Type Classification**
+
+* Automatically classifies the type of meat using a CNN model.
+* Categories include:
+
+  * Chicken
+  * Beef
+  * Fish
+
+### 🕒 **Real-Time Freshness Analysis**
+
+* Analyzes uploaded images in real-time to determine meat freshness.
+* Uses FastCNN and ResNet-based models.
+
+### 🧪 **Freshness Classification Output**
+
+* Provides results in well-defined quality levels:
+
+  * **Fresh**
+  * **Not Fresh**
+  * **Spoiled**
+
+### 🧠 **Augmented Reality Overlay**
+
+* Overlays classification results directly on the meat image.
+* Highlights critical areas using bounding boxes and probability scores.
+* Simulates AR experience for user interpretability.
+
+### 🧾 **Generate AR Report**
+
+* Compiles analysis results into a downloadable report.
+* Summarizes:
+
+  * Meat type
+  * Freshness level
+  * Detection confidence
+  * Image with AR annotations
+
+---
 
 ### 🎥 Demo Video
 
@@ -49,9 +76,16 @@ for each meat sample.
 
 ---
 
-### 🧩 Proposed Project Architecture
+### 🧩 Proposed Project Architecture Diagram
 
 ![Architecture Diagram](https://raw.githubusercontent.com/ShifaZahra123/Final-Year-Project-2025/main/Architecture%20Diagram.jpeg)
+
+---
+
+
+### 🧩 Proposed Project Layer Diagram
+
+![Architecture Diagram](https://raw.githubusercontent.com/ShifaZahra123/Final-Year-Project-2025/main/Layer%20Diagram.jpeg)
 
 ---
 
